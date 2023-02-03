@@ -18,7 +18,6 @@
 <p>as ferramentas otilizadas para fazer o projeto;</p>
 
 ✔️React-js <br>
-✔️Html <br>
 ✔️Css <br>
 ✔️JavaScript<br>
 ✔️Styled-components
